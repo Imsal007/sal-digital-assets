@@ -1,0 +1,2 @@
+file '/opt/data/sal-digital-assets/page@fe6b85594a6cfea704424e0079c4e0f0.webm'
+file '/opt/data/sal-digital-assets/sal_endcard.mp4'
